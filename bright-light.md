@@ -1,5 +1,9 @@
+# Purpose 
+
 This gallery explores light in art. It's easy to make something bright, make it dark, but there's a special art to make light itself look bright in an image.
 A good example of this is the artwork in the 1988 movie Akira.
+
+---
 
 ![Alt text](https://cdn-images-1.medium.com/max/1250/1*WBkbx5kA9Y_EW4Cr8LnPyw.jpeg)
 
